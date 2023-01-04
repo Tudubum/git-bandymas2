@@ -1,7 +1,4 @@
-body{
-    margin: 0;
-    background-color: blanchedalmond;
-}
+
 section#gitKomandos > ul{
     max-width: 80%;
     margin: 30px auto 0;
@@ -10,7 +7,7 @@ section#gitKomandos > ul{
     font-size: 1.3rem;
 }
 
-section#gitKomandos li{
-    color: rgb(0, 0, 0);
-    line-height: 1.5;
+body{
+    background-color: rgb(255, 145, 0);
+    
 }
